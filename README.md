@@ -14,3 +14,8 @@ Extract files from https://1drv.ms/u/c/aa50ee0908cf365a/IQC-kH1GnLHjQoMI0Ktp4vBX
 -Mario Kart 64 (DC Port) IND-169632
 -Power Jet Racing 2001 (Japenese Version of Surf Rocket Racers) T6806M
 -Dreamcast Browser 2.62 (NTSC) MK-51142
+Derek's alphabetical folders A-Z.
+House of the Dead 2 Japan - HDR0007
+Sonic Adventure International - HDR0043
+Street Fighter Zero III - T1230M 
+
